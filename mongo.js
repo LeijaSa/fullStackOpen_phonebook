@@ -1,3 +1,5 @@
+// This file was created as a practice step prior to integrating the database connection into index.js
+
 const mongoose = require('mongoose')
 
 if (process.argv.length < 3) {
